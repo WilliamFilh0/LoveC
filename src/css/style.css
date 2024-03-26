@@ -6,7 +6,7 @@
 
 body {
   background-color: red;
-  /*background-color: #ff0000;*/
+  /*background-color: #ffc0cb;*/
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
